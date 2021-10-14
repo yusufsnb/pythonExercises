@@ -39,9 +39,11 @@ print("Rstrip", text.rstrip())
 #print(".".join(["06", "11", "1998"]))
 
 # count function returns count of given character
+"""
 print("Yusuf".count("u"))
 print("Yusuf".count("u", 2))
 
 # find function return index of given character
 print("Yusuf".find("u"))
 print("Yusuf".rfind("u"))
+"""
